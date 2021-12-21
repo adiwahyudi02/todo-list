@@ -1,3 +1,9 @@
+### To Do List App
+
+We can Create, Edit and Delete what you want to list.
+
+This application built using React Js with Redux.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
