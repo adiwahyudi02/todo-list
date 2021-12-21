@@ -33,7 +33,7 @@ const Todo = () => {
       <h1 className="text-2xl font-semibold">Not finished</h1>
       <Todolist data={todoNotFinished()} />
 
-      <h1 className="text-2xl font-semibold">Finihed</h1>
+      <h1 className="text-2xl font-semibold">Finished</h1>
       <Todolist data={todoFinished()} />
 
       <button className="w-full bg-emerald-500 text-white rounded px-5 py-3" onClick={()=> setShowForm(true)}>Create new</button>
