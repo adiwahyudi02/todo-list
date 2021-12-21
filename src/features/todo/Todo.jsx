@@ -27,7 +27,7 @@ const Todo = () => {
   };
 
   return (
-    <div className="w-1/2 m-auto">
+    <div className="w-full md:w-1/2 md:px-2 p-5 m-auto ">
       <h1 className="text-3xl font-bold my-10">To Do List</h1>
 
       <h1 className="text-2xl font-semibold">Not finished</h1>
